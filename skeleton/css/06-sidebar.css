@@ -1,0 +1,40 @@
+/* PHASE 0: Sidebar */ 
+
+/* .profile-picture > img { */
+    /* display: block; */
+/* } */
+
+.profile-picture {
+    display: block;
+    margin-top: -150px;
+    position: relative;
+    /* border: 3px solid red; */
+}
+
+
+
+
+.profile-nav li{
+    /* color: red; */
+    /* background-color: red; */
+    /* border-top: 1px solid; */
+    border-bottom: 1px solid;
+    padding: 5px;
+}
+
+.profile-nav li:first-child {
+    border-top: 1px solid;
+}
+
+.profile-nav {
+    margin-top: 10px;
+}
+
+/* .online {
+    background-color: #1ECA2E;
+    display: flex;
+    justify-content: center;
+    color: white;
+    transform: rotate(-45deg) translateX(-35%) translateY(-15%);
+    
+}
